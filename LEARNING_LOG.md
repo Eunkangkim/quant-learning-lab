@@ -12,7 +12,14 @@ This log documents not only what I study, but also what I revisit, misunderstand
 
 | Date | Topic | Activity | Evidence |
 |---|---|---|---|
-| 2026-11-08 | ARIMA | Concept review (in progress) | To be added |
+| 2026-11-08 | ARIMA | Concept review (in progress)-https://app.notion.com/p/Week-last-Forecasting-and-ARIMA-models-33da37484dcd80318428cf326bdd2543| To be added |
+
+## Learning History
+
+| Date | Topic | Source | Activity | Status |
+|---|---|---|---|---|
+| 2026-11-08 | ARIMA | [Investopedia](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp) | Concept review | In Progress |
+  
 
 ## Detailed Sessions
 
@@ -32,6 +39,14 @@ This log documents not only what I study, but also what I revisit, misunderstand
 3. How do AR and MA components differ?
 4. What are the limitations of ARIMA?
 
+
+## Learning History
+
+| Date | Topic | Source | Activity | Status | Evidence |
+|---|---|---|---|---|---|
+| 2026-11-08 | ARIMA | [Investopedia](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp) | Concept Review | In Progress | [Review #1](time-series/arima/review-history.md) |
+
+  
 **What I learned:**
 _To be completed after studying._
 
